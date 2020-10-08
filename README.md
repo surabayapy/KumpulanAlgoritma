@@ -67,19 +67,6 @@ git push origin branch-name
 * Tunggu sampai PR (Pull Request) mu di approve/ di merge!
 * __Kasih Bintang ke Repo Ini__ jika kamu merasa senang!
 
-## Which PR will be accepted?
-* Ones you are assigned to
-* Your PR has to link the Issue
-* Your Solution must be correct - you can check first on LeetCode (submit) if it works on different test-cases
-
-## Which PRs will be NOT accepted?
-* Ones you are NOT assigned to
-* Your PR is NOT linked to the Issue you are linked to
-* Your Solution is not correct
-* Your PR contains more than the .py file
-* PRs that "correct" Typos or spam files with comments
-* PRs that "correct" Coding Styles - Please accept that everybody has a different style
-
 ## Hacktoberfest
 Syarat keterima pull request untuk event hacktoberfest 2020 adalah:
 1. Pull Request terhitung jika mensubmit di bulan Oktober 2020, dan Pull Request dari peserta telah dilabeli `hacktoberfest-accepted` dari maintainer
