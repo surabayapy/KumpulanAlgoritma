@@ -1,8 +1,8 @@
 ---
 name: Tulis apa yang akan dilakukan
 about: deskripsi singkat tentang apa yang akan dilakukan
-title: ''
-labels: good first issue, help wanted, hacktoberfest
+title: menambahkan algoritma ....
+labels: good first issue, hacktoberfest, help wanted
 assignees: ''
 
 ---
