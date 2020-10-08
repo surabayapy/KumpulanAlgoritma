@@ -11,7 +11,7 @@
 
 
 ## Table of Contents
-* [Inspiration and Motivation](#inspiration)
+* [Inspirasi dari repository ini](#inspirasi)
 * [Contributing Guidelines](#contributing-guidelines)
 * [Start Here](#getting-started)
 
@@ -21,11 +21,13 @@
 ### All algorithms implemented in Python 3 (for education)
 There implementations are for learning purposes. If you want to contribute more efficient solutions feel free to open an issue and commit your solution.
 
-## Inspiration
+## Inspirasi
 
-You can look for Algorithms to implement at: [LeetCode Algorithms](https://leetcode.com/problemset/algorithms/) 
+Repository ini terinspirasi dari repository milik vJechsmayr, yaitu : [Python Algorithms](https://github.com/vJechsmayr/PythonAlgorithms)
+Kamu dapat melihat implementasi algoritma di : [LeetCode Algorithms](https://leetcode.com/problemset/algorithms/)
 
-To contribute make sure the Algorithm isn't commited yet! Make sure to add the number of the Issue in your PR.
+untuk berkontribusi, coba lihat algoritma yang akan kamu `commit`, apakah algoritmanya sudah pernah dicommit atau belum
+
 
 ## Contributing Guidelines
 
