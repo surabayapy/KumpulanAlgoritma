@@ -13,13 +13,16 @@
 ## Table of Contents
 * [Inspirasi dari repository ini](#inspirasi)
 * [Petunjuk Kontribusi](#petunjuk-kontribusi)
-* [Start Here](#getting-started)
+* [Start Disini](#getting-started)
 
 
 
 
 ### All algorithms implemented in Python 3 (for education)
 There implementations are for learning purposes. If you want to contribute more efficient solutions feel free to open an issue and commit your solution.
+## Semua algoritma harus diimplementasikan ke Python 3
+Implementasi algoritma disini tujuannya hanya untuk pembelajaran. Jika kamu ingin berkontribusi lebih, silakan mampir ke repository kita disini: https://github.com/surabaya-py
+
 
 ## Inspirasi
 
