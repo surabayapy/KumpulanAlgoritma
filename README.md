@@ -32,10 +32,10 @@ untuk berkontribusi, coba lihat algoritma yang akan kamu `commit`, apakah algori
 ## Petunjuk Kontribusi
 
 ### Folder dan File
-Mohon perhatikan, file yang ingin kamu commit sudah berada di dalam folder dengan nama sesuai dengan nama kamu, 
-contoh : `Muhammad Wildan`
+Mohon perhatikan, file yang ingin kamu commit harus sudah berada di dalam folder dengan nama yang sesuai dengan nama kamu, 
+contoh nama folder: `Muhammad Wildan`
 
-lalu penamaan filenya, harus sesuai dengan algoritma yang kamu digunakan, contoh: `0001_TwoSums.py` -> formatnya: 4-digit nomer urut algoritma yang digunakan di LeetCode, Underscore, nama algoritma di LeetCode
+lalu penamaan filenya, harus sesuai dengan algoritma yang kamu digunakan, contoh penamaan file: `0001_TwoSums.py` -> formatnya: 4-digit nomer urut algoritma yang digunakan di LeetCode, Underscore, nama algoritma di LeetCode
 
 ### Opening Issues
 When you open an issue, please make sure the Problem is not already implemented (Look at Code/Leetcode for the Problemnumber). 
