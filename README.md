@@ -1,13 +1,13 @@
 # The Algorithms - Python
 
-[![Contributors](https://img.shields.io/github/contributors/vJechsmayr/PythonAlgorithms)](https://github.com/vJechsmayr/PythonAlgorithms/graphs/contributors)
-[![Issues](https://img.shields.io/github/issues/vJechsmayr/PythonAlgorithms)](https://github.com/vJechsmayr/PythonAlgorithms/issues)
-[![Open Pull Requests](https://img.shields.io/github/issues-pr-raw/vJechsmayr/PythonAlgorithms)](https://github.com/vJechsmayr/PythonAlgorithms/pulls)
-[![Last Commit](https://img.shields.io/github/last-commit/vJechsmayr/PythonAlgorithms)](https://github.com/vJechsmayr/PythonAlgorithms)
-[![Stars](https://img.shields.io/github/stars/vJechsmayr/PythonAlgorithms)](https://github.com/vJechsmayr/PythonAlgorithms/stargazers)
-[![Forks](https://img.shields.io/github/forks/vJechsmayr/PythonAlgorithms)](https://github.com/vJechsmayr/PythonAlgorithms/network/members)
-[![Watchers](https://img.shields.io/github/watchers/vJechsmayr/PythonAlgorithms)](https://github.com/vJechsmayr/PythonAlgorithms/watchers)
-[![License](https://img.shields.io/github/license/vJechsmayr/PythonAlgorithms)](https://github.com/vJechsmayr/PythonAlgorithms/blob/master/LICENSE)
+[![Contributors](https://img.shields.io/github/contributors/surabaya-py/KumpulanAlgoritma)](https://github.com/surabaya-py/KumpulanAlgoritma/graphs/contributors)
+[![Issues](https://img.shields.io/github/issues/surabaya-py/KumpulanAlgoritma)](https://github.com/surabaya-py/KumpulanAlgoritma/issues)
+[![Open Pull Requests](https://img.shields.io/github/issues-pr-raw/surabaya-py/KumpulanAlgoritma)](https://github.com/surabaya-py/KumpulanAlgoritma/pulls)
+[![Last Commit](https://img.shields.io/github/last-commit/surabaya-py/KumpulanAlgoritma)](https://github.com/surabaya-py/KumpulanAlgoritma)
+[![Stars](https://img.shields.io/github/stars/surabaya-py/KumpulanAlgoritma)](https://github.com/surabaya-py/KumpulanAlgoritma/stargazers)
+[![Forks](https://img.shields.io/github/forks/surabaya-py/KumpulanAlgoritma)](https://github.com/surabaya-py/KumpulanAlgoritma/network/members)
+[![Watchers](https://img.shields.io/github/watchers/surabaya-py/KumpulanAlgoritma)](https://github.com/surabaya-py/KumpulanAlgoritma/watchers)
+[![License](https://img.shields.io/github/license/surabaya-py/KumpulanAlgoritma)](https://github.com/surabaya-py/KumpulanAlgoritma/blob/master/LICENSE)
 
 
 ## Table of Contents
