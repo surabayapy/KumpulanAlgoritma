@@ -47,30 +47,26 @@ Hanya Pull Requests yang **sesuai dengan issue** dan yang **penamaannya sesuai**
 User yang spam di repo ini dengan mengirim issue dan Pull Requests yang menyimpang dari Petunjuk Kontribusi akan dilabeli **spam** atau **blocked**.
 
 ## Getting Started
-* Fork this repository (Click the Form button, top right of this page)
-* Clone your fork down to your local machine
+* Fork repository ini (Click tombol kecil di pojok kanan atas dari page ini)
+* Clone repository yang telah di fork
 ```markdown
-git clone https://github.com/your-username/pythonalgorithms.git
+git clone https://github.com/your-username/KumpulanAlgoritma
 ```
-* Comment to the Issue you want to work on - so I can assign you to it OR create a new Issue from a LeetCode Problem that is not implemented yet
-* Create a branch for a new feature
+* Comment ke Issue yang cocok dengan pekerjaanmu, nanti kita bisa tau apakah issue tersebut sudah diimplementasikan atau belum.
+* Bikin branch baru sesuai dengan algorima yang kamu gunakan, contoh:
 ```markdown
 git checkout -b feature/branch-name
 ```
-* Or if its a bugfix to a file
-```markdown
-git checkout -b bugfix/branch-name
-```
-* Make your changes (choose from the Tasks above!)
-* Commit and Push
+* Terus push deh!
+* Cara untuk Commit dan Push
 ```markdown
 git add .
 git commit -m 'commit message'
 git push origin branch-name
 ```
-* Create a New Pull Request from your forked repository ( Click the 'New Pull Request' Button located at the top of your repo)
-* Wait for your PR review and merge approval!
-* __Star this repository__ if you had fun!
+* Setelah itu, bikin pull request ke reponya surabaya-py, caranya dengan mengklik tombol `New Pull Request` dari repository yang telah kamu fork (Tombolnya ada di pojok kanan atas repomu)
+* Tunggu sampai PR (Pull Request) mu di approve/ di merge!
+* __Kasih Bintang ke Repo Ini__ jika kamu merasa senang!
 
 ## Which PR will be accepted?
 * Ones you are assigned to
@@ -86,6 +82,8 @@ git push origin branch-name
 * PRs that "correct" Coding Styles - Please accept that everybody has a different style
 
 ## Hacktoberfest
-During October there come pretty much PRs and Issues - Please be patient because of my fulltime job I cannot be online 24/7 - I do my best to work through your PRs as soon as possible.
+Syarat keterima pull request untuk event hacktoberfest 2020 adalah:
+1. Pull Request terhitung jika mensubmit di bulan Oktober 2020, dan Pull Request dari peserta telah dilabeli `hacktoberfest-accepted` dari maintainer
+2. Pull Request terhitung jika mensubmit di bulan Oktober 2020, di repository yang memakai topik `hacktoberfest` dan harus di merge atau di approve dari maintainer.
 
-__Thank You!__ 
+__Thank You! ^^__ 
