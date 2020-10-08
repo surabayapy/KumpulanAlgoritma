@@ -12,7 +12,7 @@
 
 ## Table of Contents
 * [Inspirasi dari repository ini](#inspirasi)
-* [Contributing Guidelines](#contributing-guidelines)
+* [Petunjuk Kontribusi](#petunjuk-kontribusi)
 * [Start Here](#getting-started)
 
 
@@ -23,17 +23,18 @@ There implementations are for learning purposes. If you want to contribute more 
 
 ## Inspirasi
 
-Repository ini terinspirasi dari repository milik vJechsmayr, yaitu : [Python Algorithms](https://github.com/vJechsmayr/PythonAlgorithms)
+Repository ini terinspirasi dari repository milik vJechsmayr, yaitu : [Python Algorithms](https://github.com/vJechsmayr/PythonAlgorithms),
 Kamu dapat melihat implementasi algoritma di : [LeetCode Algorithms](https://leetcode.com/problemset/algorithms/)
 
 untuk berkontribusi, coba lihat algoritma yang akan kamu `commit`, apakah algoritmanya sudah pernah dicommit atau belum
 
 
-## Contributing Guidelines
+## Petunjuk Kontribusi
 
-### Folders and Files
-Please make sure your file is in the `LeetCode`-Folder and Named like this:
-`0001_TwoSum.py` -> 4-digit Number of the LeetCode Issue, Underscore, LeetCodeName
+### Folder dan File
+Mohon perhatikan, file yang ingin kamu commit sudah berada di dalam folder dengan nama sesuai dengan nama kamu, contoh : `Muhammad Wildan`
+
+lalu penamaan filenya, harus sesuai dengan algoritma yang kamu digunakan, contoh: `0001_TwoSums.py` -> formatnya: 4-digit nomer urut algoritma yang digunakan di LeetCode, Underscore, nama algoritma di LeetCode
 
 ### Opening Issues
 When you open an issue, please make sure the Problem is not already implemented (Look at Code/Leetcode for the Problemnumber). 
