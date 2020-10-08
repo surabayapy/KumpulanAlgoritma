@@ -33,23 +33,18 @@ untuk berkontribusi, coba lihat algoritma yang akan kamu `commit`, apakah algori
 
 ### Folder dan File
 Mohon perhatikan, file yang ingin kamu commit harus sudah berada di dalam folder dengan nama yang sesuai dengan nama kamu, 
-contoh nama folder: `Muhammad Wildan`
+contoh nama folder: `MuhammadWildan`
 
 lalu penamaan filenya, harus sesuai dengan algoritma yang kamu digunakan, contoh penamaan file: `0001_TwoSums.py` -> formatnya: 4-digit nomer urut algoritma yang digunakan di LeetCode, Underscore, nama algoritma di LeetCode
 
-### Opening Issues
-When you open an issue, please make sure the Problem is not already implemented (Look at Code/Leetcode for the Problemnumber). 
-Opened Issues by existing Problem will be closed & PR made to this Issue marked as **spam**
-The Contributer who opened an issue will be assigned prefered to the issue. If there is no PR within about 7 Days the issue will be assigned to another Contributer.
+### Membuat Issue
+Ketika kamu membuat issue, pastikan masalah/issue tersebut masih belum diimplementasikan di source code repository
 
 ### Pull Requests
-Only Pull Requests **joined with an Issue** and matching the **naming-conventions** (See Folders and Files) will be merged!
-If there is no Issue joined in the PR your PR will be labeld as **spam** and closed.
-If your code don't passes the Check on LeetCode.com your PR will be labeld as **"invalid"** and the Issue stays open for the next PR!
-If your PR doesn' follow the Contributing Guidelines of this Repository it will be also marked as **spam** and closed!
+Hanya Pull Requests yang **sesuai dengan issue** dan yang **penamaannya sesuai** yang akan di merge!
 
 ### Spam Users
-Users who spam this Repo with PRs/Issues that does not align the Contribution Guidelines will be **blocked**.
+User yang spam di repo ini dengan mengirim issue dan Pull Requests yang menyimpang dari Petunjuk Kontribusi akan dilabeli **spam** atau **blocked**.
 
 ## Getting Started
 * Fork this repository (Click the Form button, top right of this page)
