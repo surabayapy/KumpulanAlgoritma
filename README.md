@@ -12,7 +12,7 @@
 
 ## Table of Contents
 * [Inspirasi dari repository ini](#inspirasi)
-* [Petunjuk Kontribusi](#petunjuk-kontribusi)
+* [Petunjuk Kontribusi](https://github.com/surabaya-py/KumpulanAlgoritma/blob/main/CONTRIBUTING.md)
 * [Start Disini](#getting-started)
 
 
