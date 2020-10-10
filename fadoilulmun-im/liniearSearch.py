@@ -13,3 +13,5 @@ if hasil:
     print("Elemen di temukan di index ke", hasil)
 else:
     print("Elemen yang dicari tidak ada dalam array")
+
+    
