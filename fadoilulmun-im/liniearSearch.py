@@ -1,4 +1,3 @@
-
 def linierSearch(arr, n, x):
 
     for i in range(0, n):
